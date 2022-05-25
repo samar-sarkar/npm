@@ -18,5 +18,5 @@
   `Create database npm;
     Insert into databse....`
 * Run Welcome.java
-![simple photo](https://raw.githubusercontent.com/samar-sarkar/npm/gh-pages/186548035_2720579848232187_3832367400468775481_n.jpg)
-![](https://i.pinimg.com/550x/75/9b/21/759b213e0a92bd8b193935f5955d93a8.jpg)
+![simple photo]()
+![]()
